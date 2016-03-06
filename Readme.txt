@@ -1,4 +1,5 @@
 Mixture of Gaussian is used to detect road from aerial images from a quacopter
+from a top down view only.
 
 ---Usage is---
 
