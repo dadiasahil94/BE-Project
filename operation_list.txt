@@ -1,0 +1,3 @@
+---Communtication---
+	Confirm communication using Xbee from computer to BBB.
+	Do Xbee tutorial
